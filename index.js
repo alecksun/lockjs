@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-    mutex: require('./lib/mutex.js')
+    createMutex: require('./lib/mutex.js')
 };
