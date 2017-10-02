@@ -1,0 +1,25 @@
+{
+  "name": "lockjs",
+  "version": "1.0.0",
+  "description": "locks for javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecksun/lockjs.git"
+  },
+  "keywords": [
+    "lock"
+  ],
+  "author": "Aleck Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alecksun/lockjs/issues"
+  },
+  "homepage": "https://github.com/alecksun/lockjs#readme"
+}
